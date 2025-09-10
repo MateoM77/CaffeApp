@@ -60,7 +60,7 @@ namespace CafeteriaApp.Tests.Presentation
             // Arrange
             var bebidas = new List<Bebida>
             {
-                new Bebida("B001", "Café Americano", "Café negro clásico", 2.50m, "Mediano", false),
+                new Bebida("B0011", "Café Americano", "Café negro clásico", 2.50m, "Mediano", false),
                 new Bebida("B002", "Cappuccino", "Espresso con leche espumada", 3.50m, "Mediano", false)
             };
 
